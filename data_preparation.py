@@ -174,7 +174,7 @@ plt.xticks(rotation=90)
 plt.grid(True)
 plt.show()
 
-## Making a bar chart for the age of the pedigree dogs in 2023, having chosen the gender. In order to get isolated data for a specific gender of interest
+## Making a bar chart for the age of the pedigree dogs in 2023
 # Grouping the data of pedigree dogs by age of the dog
 # Counts the number of occurrences for each unique combination of age of the dog and pedigree dogs
 # Data for 'Mixed breed' is converted into columns to facilitate interpretation and sets a value of 0 if there are any missing values
@@ -189,7 +189,7 @@ plt.xticks(rotation=90)
 plt.grid(True)
 plt.show()
 
-## Making a bar chart for the age of the pedigree dogs for the chosen breed in 2023
+## Making a bar chart for the age of the pedigree dogs for the chosen breed in 2023, having chosen the gender. In order to get isolated data for a specific gender of interest
 # Grouping the data of pedigree dogs by age of the dog
 # Counts the number of occurrences for each unique combination of age of the dog and pedigree dogs
 # Data for 'Mixed breed' is converted into columns to facilitate interpretation and sets a value of 0 if there are any missing values
